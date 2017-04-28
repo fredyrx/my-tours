@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "248225180016",
+    "firebase_url": "https://mytours-a4594.firebaseio.com",
+    "project_id": "mytours-a4594",
+    "storage_bucket": "mytours-a4594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248225180016:android:41723abe32df9f11",
+        "android_client_info": {
+          "package_name": "com.fredyrx.mytours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248225180016-k42tt97v830vh5lo9a9flgrj7dc0dgnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fredyrx.mytours",
+            "certificate_hash": "cd648a0a1748ec23e99847388850f7484121326c"
+          }
+        },
+        {
+          "client_id": "248225180016-p993v2nl1pbv3upsvc3jnufrbo75e9lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOtO0su9zlLV0nNoh5vALAc9blrmUmAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248225180016-p993v2nl1pbv3upsvc3jnufrbo75e9lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

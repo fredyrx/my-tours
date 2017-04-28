@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Tours</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">EMAIL</string>
+    <string name="hint_password">PASSWORD</string>
+    <string name="action_sign_in_ime">SIGN IN</string>
+    <string name="action_sign_in">AUTHENTICATE</string>
+</resources>
